@@ -1,0 +1,49 @@
+📊 Sales Data Analysis: From Raw Data to Business Insights
+🌟 The Story
+
+Every business generates sales data—but not every business knows how to use it effectively.
+
+In this project, I stepped into the role of a Business Analyst, working with raw sales data to answer a critical question:
+👉 “What is really driving our sales performance?”
+
+Using SQL, I explored the dataset to uncover patterns, trends, and insights that can help a company make smarter, data-driven decisions.
+
+🔍 The Challenge
+
+The dataset contained information on sales transactions, customers, and products—but lacked clear insights.
+My goal was to transform this raw data into answers for key business questions like:
+
+Which products generate the most revenue?
+Who are the top customers?
+Which regions or categories perform best?
+Are there hidden trends in sales over time?
+🧠 Approach
+
+To solve this, I:
+
+Cleaned and explored the dataset using SQL
+Used JOINs to combine multiple tables
+Applied aggregations (SUM, COUNT, AVG) to measure performance
+Wrote subqueries and CTEs for deeper insights
+Analyzed time-based trends to understand growth patterns
+📈 Key Insights
+💰 Identified top-performing products contributing the most to revenue
+👥 Discovered high-value customers driving repeat business
+🌍 Highlighted regions with strong and weak sales performance
+📊 Revealed trends that can guide future sales and marketing strategies
+💼 Business Impact
+
+This analysis can help businesses:
+
+Focus on high-revenue products and customers
+Optimize sales strategies and marketing efforts
+Improve decision-making with data-backed insights
+Identify opportunities for growth and expansion
+🛠️ Skills Demonstrated
+SQL (Joins, Aggregations, Subqueries, CTEs)
+Data Analysis & Problem Solving
+Business Insight Generation
+Data Cleaning & Exploration
+🚀 Final Thoughts
+
+This project highlights how SQL can turn raw sales data into a clear story about business performance, helping organizations move from guesswork to informed decision-making
